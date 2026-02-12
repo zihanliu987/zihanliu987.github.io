@@ -20,6 +20,9 @@ Hi, I'm Zihan Liu (劉子涵). I'm a Master's student in Computer Science and En
 
 My research interests lie in **computational neuroscience**. Specifically, I am interested in understanding how neural circuits perform computations and how low-dimensional manifold structures in neural population activity give rise to perception and behavior. My work draws on tools from theoretical neuroscience, machine learning, and dynamical systems.
 
+# News
+- *Feb, 2026*: Starting from Fall 2026, I will join the University of Tokyo as a PhD student.
+
 # Educations
 
 - *2025.09 - 2026.07*, M.Sc. in Computer Science, **The Chinese University of Hong Kong (CUHK)**, Hong Kong
