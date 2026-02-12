@@ -25,7 +25,7 @@ My research interests lie in **Computational Neuroscience**. I am broadly intere
 # News
 
 - *Feb, 2026*: Starting from Fall 2026, I will join the University of Tokyo as a PhD student.
-- Dec, 2025:
+- *Dec, 2025*: Selected for the RIKEN Junior Research Associate (JRA) Program 2026.
 
 # Educations
 
