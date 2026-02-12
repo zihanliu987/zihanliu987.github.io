@@ -22,12 +22,16 @@ Hi, my name is Zihan Liu (劉子涵). I am currently a Master's student in Compu
 
 My research interests lie in **Computational Neuroscience**, drawing on tools from theoretical neuroscience, machine learning, and dynamical systems. Specifically, I am now focusing on:
 
-- **Neural Circuit Computation**: Understanding how neural circuits perform computations and implement cognitive functions.
+- **Hierarchical Neural Computation**: Exploring cross-region communication mechanisms in the brain through multiple interconnected neural circuits.
 - **Neural Manifold Theory**: Investigating how low-dimensional manifold structures in neural population activity give rise to perception and behavior.
+
+Apart from these, I am also interested in:
+
+- **NeuroAI**: Developing energy-efficient, brain-inspired artificial intelligence.
 
 # News
 
-- *Feb, 2026*: I will be joining [Fujisawa Lab](https://fujisawalab.riken.jp/) at the University of Tokyo / RIKEN CBS as a PhD student, starting Fall 2026.
+- *Feb, 2026*: I will be joining [Systems Neurophysiology Lab (Fujisawa Lab)](https://fujisawalab.riken.jp/) at the University of Tokyo / RIKEN CBS as a PhD student, starting Fall 2026.
 - *Dec, 2025*: I am selected for the [RIKEN Junior Research Associate (JRA)](https://www.riken.jp/en/careers/programs/jra/) Program 2026.
 
 # Educations
@@ -46,6 +50,7 @@ My research interests lie in **Computational Neuroscience**, drawing on tools fr
 
 </div>
 </div>
+
 
 
 # Experience
