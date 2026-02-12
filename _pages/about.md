@@ -42,8 +42,6 @@ My research interests lie in **computational neuroscience**. Specifically, I am 
 </div>
 </div>
 
-
-
 # Experience
 
 - *2025.02 - Present*, Research Assistant, **[Hierarchical Neural Computation Research Unit](https://cbs.riken.jp/en/faculty/t.asabuki/), RIKEN CBS**, Wako, Japan.
