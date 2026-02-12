@@ -18,9 +18,9 @@ redirect_from:
 
 # About
 
-Hi, I'm Zihan Liu (劉子涵). I'm now a Master student in Computer Science and Engineering at The Chinese University of Hong Kong (CUHK). I am also a Research Assistant in [Hierarchical Neural Computation Lab](https://cbs.riken.jp/en/faculty/t.asabuki/), RIKEN Center for Brain Science, supervised by [Dr. Toshitake Asabuki](https://sites.google.com/view/toshitake-asabuki). Prior to this, I obtained my Bachelor's degree in Computer Science from City University of Hong Kong (CityU), where I had the privilege of being supervised by [Prof. Chi Chung Alan Fung](https://www.cityu.edu.hk/stfprofile/ccfung.htm).
+Hi, my name is Zihan Liu (劉子涵). I am currently a Master's student in Computer Science and Engineering at The Chinese University of Hong Kong (CUHK), and a Research Assistant in [Hierarchical Neural Computation Lab](https://cbs.riken.jp/en/faculty/t.asabuki/), RIKEN Center for Brain Science, under the supervision of [Dr. Toshitake Asabuki](https://sites.google.com/view/toshitake-asabuki). I received my Bachelor's degree in Computer Science from City University of Hong Kong (CityU), where I was fortunate to be advised by [Prof. Chi Chung Alan Fung](https://www.cityu.edu.hk/stfprofile/ccfung.htm).
 
-My research interests lie in **C****omputational Neuroscience**. Specifically, I am interested in understanding how neural circuits perform computations and how low-dimensional manifold structures in neural population activity give rise to perception and behavior. My work draws on tools from theoretical neuroscience, machine learning, and dynamical systems.
+My research interests lie in **Computational Neuroscience**. I am broadly interested in understanding how neural circuits perform computations, and how low-dimensional manifold structures in neural population activity give rise to perception and behavior. My work draws on tools from theoretical neuroscience, machine learning, and dynamical systems.
 
 # News
 
