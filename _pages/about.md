@@ -39,8 +39,6 @@ My research interests lie in **computational neuroscience**. Specifically, I am 
 
 **Neurocomputing**, 2025
 
-[**Paper**](https://www.sciencedirect.com/science/article/pii/S0925231225011221)
-
 </div>
 </div>
 
