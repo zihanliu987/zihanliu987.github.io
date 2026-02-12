@@ -27,8 +27,8 @@ My research interests lie in **computational neuroscience**. Specifically, I am 
 
 # Educations
 
-- *2025.09 - 2026.07*, M.Sc. in Computer Science, **The Chinese University of Hong Kong (CUHK)**, Hong Kong
-- *2021.09 - 2025.07*, B.Sc. in Computer Science, **City University of Hong Kong (CityUHK)**, Hong Kong
+- *2025.09 - 2026.07*, M.Sc. in Computer Science, **The Chinese University of Hong Kong (CUHK)**, Hong Kong SAR, China
+- *2021.09 - 2025.07*, B.Sc. in Computer Science, **City University of Hong Kong (CityUHK)**, Hong Kong SAR, China
 
 # Publications
 
@@ -47,7 +47,7 @@ My research interests lie in **computational neuroscience**. Specifically, I am 
 # Experience
 
 - *2025.02 - Present*, Research Assistant, **Hierarchical Neural Computation Research Unit, RIKEN CBS**, Wako, Japan.
-- *2024.07 - 2025.05*, Technical Assistant, **Department of Computer Science, CityUHK**, Hong Kong.
-- *2023.12 - 2024.11*, Research Intern, **Department of Neuroscience, CityUHK**, Hong Kong.
+- *2024.07 - 2025.05*, Technical Assistant, **Department of Computer Science, CityUHK**, Hong Kong SAR, China.
+- *2023.12 - 2024.11*, Research Intern, **Department of Neuroscience, CityUHK**, Hong Kong SAR, China.
 - *2023.10 - 2024.07*, Technical Intern, **China Resources (Holdings) Co., Ltd.**, China.
 - *2023.06 - 2023.08*, Perception Algorithm Intern, **HAOMO.AI Technology Co., Ltd.**, China.
