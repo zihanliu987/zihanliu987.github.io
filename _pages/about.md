@@ -18,14 +18,14 @@ redirect_from:
 
 # About
 
-Hi, my name is Zihan Liu (劉子涵). I am currently a Master's student in Computer Science and Engineering at The Chinese University of Hong Kong (CUHK), and a Research Assistant in [Hierarchical Neural Computation Lab](https://cbs.riken.jp/en/faculty/t.asabuki/), RIKEN Center for Brain Science, under the supervision of [Dr. Toshitake Asabuki](https://sites.google.com/view/toshitake-asabuki). I received my Bachelor's degree in Computer Science from City University of Hong Kong (CityU), where I was fortunate to be advised by [Prof. Chi Chung Alan Fung](https://www.cityu.edu.hk/stfprofile/ccfung.htm).
+Hi, my name is Zihan Liu (劉子涵). I am currently a Master's student in Computer Science and Engineering at The Chinese University of Hong Kong (CUHK), and a Research Assistant in [Hierarchical Neural Computation Lab](https://cbs.riken.jp/en/faculty/t.asabuki/), RIKEN Center for Brain Science, under the supervision of [Dr. Toshitake Asabuki](https://sites.google.com/view/toshitake-asabuki). Before that, I received my Bachelor's degree in Computer Science from City University of Hong Kong (CityU), where I was advised by [Prof. Chi Chung Alan Fung](https://www.cityu.edu.hk/stfprofile/ccfung.htm).
 
 My research interests lie in **Computational Neuroscience**. I am broadly interested in understanding how neural circuits perform computations, and how low-dimensional manifold structures in neural population activity give rise to perception and behavior. My work draws on tools from theoretical neuroscience, machine learning, and dynamical systems.
 
 # News
 
-- *Feb, 2026*: Starting from Fall 2026, I will join the University of Tokyo as a PhD student.
-- *Dec, 2025*: Selected for the RIKEN Junior Research Associate (JRA) Program 2026.
+- *Feb, 2026*: Starting from Fall 2026, I will join [Fujisawa Lab](https://fujisawalab.riken.jp/), the University of Tokyo together with RIKEN CBS as a PhD student.
+- *Dec, 2025*: I am selected for the RIKEN Junior Research Associate (JRA) Program 2026.
 
 # Educations
 
@@ -45,10 +45,11 @@ My research interests lie in **Computational Neuroscience**. I am broadly intere
 </div>
 
 
+
 # Experience
 
 - *2025.02 - Present*, Research Assistant, **Hierarchical Neural Computation Research Unit, RIKEN CBS**, Wako, Japan.
 - *2024.07 - 2025.05*, Technical Assistant, **Department of Computer Science, CityUHK**, Hong Kong SAR, China.
-- *2023.12 - 2024.11*, Research Intern, **Department of Neuroscience, CityUHK**, Hong Kong SAR, China.
+- *2023.12 - 2024.11*, Research Assistant, **Department of Neuroscience, CityUHK**, Hong Kong SAR, China.
 - *2023.10 - 2024.07*, Technical Intern, **China Resources (Holdings) Co., Ltd.**, Mainland, China.
 - *2023.06 - 2023.08*, Perception Algorithm Intern, **HAOMO.AI Technology Co., Ltd.**, Mainland, China.
