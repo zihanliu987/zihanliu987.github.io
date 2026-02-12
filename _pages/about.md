@@ -31,7 +31,7 @@ Apart from these, I am also interested in:
 
 # News
 
-- *Feb, 2026*: I will be joining [Systems Neurophysiology Lab (Fujisawa Lab)](https://fujisawalab.riken.jp/) at the University of Tokyo / RIKEN CBS as a PhD student, starting Fall 2026.
+- *Feb, 2026*: I will be joining [Systems Neurophysiology Lab (Fujisawa Lab)](https://cbs.riken.jp/en/faculty/s.fujisawa/index.html) at the University of Tokyo / RIKEN CBS as a PhD student, starting Fall 2026.
 - *Dec, 2025*: I am selected for the [RIKEN Junior Research Associate (JRA)](https://www.riken.jp/en/careers/programs/jra/) Program 2026.
 
 # Educations
