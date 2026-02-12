@@ -23,8 +23,8 @@ My research interests lie in **computational neuroscience**. Specifically, I am 
 
 
 # 📖 Educations
-- *2025.09 - 2026.07*, M.Sc. in Computer Science, The Chinese University of Hong Kong
-- *2021.09 - 2025.07*, B.Sc. in Computer Science, City University of Hong Kong
+- *2025.09 - 2026.07*, M.Sc. in Computer Science, The Chinese University of Hong Kong 
+- *2021.09 - 2025.07*, B.Sc. in Computer Science, City University of Hong Kong 
 
 # 📝 Publications 
 
@@ -34,15 +34,16 @@ My research interests lie in **computational neuroscience**. Specifically, I am 
 [Release probability distribution modulates attractor state stability and mobility in continuous-attractor neural networks](https://www.sciencedirect.com/science/article/pii/S0925231225011221)
 
 **Zihan Liu**, Flavia Nathaline Chanentia, Patteera Supvithayanond, Chi Chung Alan Fung
-
+ 
 **Neurocomputing**, 2025
-- Investigate how astrocytic NMDA receptors influence neurotransmitter release probability and dynamics of continuous attractor neural networks (CANNs)
+
+[**Paper**](https://www.sciencedirect.com/science/article/pii/S0925231225011221)
 </div>
 </div>
 
 # 💻 Experience
-- *2025.02 - Present*, Research Assistant, [Asabuki Lab](https://cbs.riken.jp/en/faculty/t.asabuki/), RIKEN Center for Brain Science, Wako, Japan.
-- *2024.07 - 2025.05*, Technical Assistant, Department of Computer Science, City University of Hong Kong.
-- *2023.12 - 2024.11*, Research Intern, Department of Neuroscience, City University of Hong Kong.
+- *2025.02 - Present*, Research Assistant, [Asabuki Lab](https://cbs.riken.jp/en/faculty/t.asabuki/), RIKEN Center for Brain Science, Wako, Japan. <br> Supervisor: Dr. Toshitake Asabuki
+- *2024.07 - 2025.05*, Technical Assistant, Department of Computer Science, City University of Hong Kong. <br> Supervisor: Prof. Jianping Wang
+- *2023.12 - 2024.11*, Research Intern, Department of Neuroscience, City University of Hong Kong. <br> Supervisor: Prof. C. C. Alan Fung
 - *2023.06 - 2023.08*, Perception Algorithm Intern, HAOMO.AI Technology Co., Ltd.
-- *2022.06 - 2022.08*, Technical Assistant, Department of Computer Science, City University of Hong Kong.
+- *2022.06 - 2022.08*, Technical Assistant, Department of Computer Science, City University of Hong Kong. <br> Supervisor: Prof. Chung Chan
