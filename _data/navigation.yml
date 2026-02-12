@@ -1,13 +1,13 @@
 # main links
 main:
   - title: "About Me"
-    url: "/#about-me"
+    url: "#about-me"
 
   - title: "Educations"
-    url: "/#-educations"
+    url: "#educations"
 
   - title: "Publications"
-    url: "/#-publications"
+    url: "#publications"
 
   - title: "Experience"
-    url: "/#-experience"
+    url: "#experience"
