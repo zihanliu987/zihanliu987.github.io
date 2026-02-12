@@ -16,16 +16,19 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# About
+# About Me
 
 Hi, my name is Zihan Liu (劉子涵). I am currently a Master's student in Computer Science and Engineering at The Chinese University of Hong Kong (CUHK), and a Research Assistant in [Hierarchical Neural Computation Lab](https://cbs.riken.jp/en/faculty/t.asabuki/), RIKEN Center for Brain Science, under the supervision of [Dr. Toshitake Asabuki](https://sites.google.com/view/toshitake-asabuki). Before that, I received my Bachelor's degree in Computer Science from City University of Hong Kong (CityU), where I was advised by [Prof. Chi Chung Alan Fung](https://www.cityu.edu.hk/stfprofile/ccfung.htm).
 
-My research interests lie in **Computational Neuroscience**. I am broadly interested in understanding how neural circuits perform computations, and how low-dimensional manifold structures in neural population activity give rise to perception and behavior. My work draws on tools from theoretical neuroscience, machine learning, and dynamical systems.
+My research interests lie in **Computational Neuroscience**, drawing on tools from theoretical neuroscience, machine learning, and dynamical systems. Specifically, I am now focusing on:
+
+- **Neural Circuit Computation**: Understanding how neural circuits perform computations and implement cognitive functions.
+- **Neural Manifold Theory**: Investigating how low-dimensional manifold structures in neural population activity give rise to perception and behavior.
 
 # News
 
-- *Feb, 2026*: Starting from Fall 2026, I will join [Fujisawa Lab](https://fujisawalab.riken.jp/), the University of Tokyo together with RIKEN CBS as a PhD student.
-- *Dec, 2025*: I am selected for the RIKEN Junior Research Associate (JRA) Program 2026.
+- *Feb, 2026*: I will be joining [Fujisawa Lab](https://fujisawalab.riken.jp/) at the University of Tokyo / RIKEN CBS as a PhD student, starting Fall 2026.
+- *Dec, 2025*: I am selected for the [RIKEN Junior Research Associate (JRA)](https://www.riken.jp/en/careers/programs/jra/) Program 2026.
 
 # Educations
 
@@ -42,8 +45,7 @@ My research interests lie in **Computational Neuroscience**. I am broadly intere
 **Zihan Liu**, Flavia Nathaline Chanentia, Patteera Supvithayanond, Chi Chung Alan Fung, ***Neurocomputing**, 2025*
 
 </div>
-</div>
-
+</div
 
 
 # Experience
