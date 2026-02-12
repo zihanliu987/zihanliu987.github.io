@@ -46,7 +46,7 @@ My research interests lie in **computational neuroscience**. Specifically, I am 
 
 # Experience
 
-- *2025.02 - Present*, Research Assistant, **[Hierarchical Neural Computation Research Unit](https://cbs.riken.jp/en/faculty/t.asabuki/), RIKEN CBS**, Wako, Japan.
+- *2025.02 - Present*, Research Assistant, **Hierarchical Neural Computation Research Unit, RIKEN CBS**, Wako, Japan.
 - *2024.07 - 2025.05*, Technical Assistant, **Department of Computer Science, CityUHK**, Hong Kong.
 - *2023.12 - 2024.11*, Research Intern, **Department of Neuroscience, CityUHK**, Hong Kong.
 - *2023.06 - 2023.08*, Perception Algorithm Intern, **HAOMO.AI Technology Co., Ltd.**, China.
