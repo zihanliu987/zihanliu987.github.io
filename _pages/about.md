@@ -22,11 +22,11 @@ Hi, I'm Zihan Liu (劉子涵). I'm a Master's student in Computer Science and En
 My research interests lie in **computational neuroscience**. Specifically, I am interested in understanding how neural circuits perform computations and how low-dimensional manifold structures in neural population activity give rise to perception and behavior. My work draws on tools from theoretical neuroscience, machine learning, and dynamical systems.
 
 
-# 📖 Educations
+# Educations
 - *2025.09 - 2026.07*, M.Sc. in Computer Science, **The Chinese University of Hong Kong (CUHK)**, Hong Kong
 - *2021.09 - 2025.07*, B.Sc. in Computer Science, **City University of Hong Kong (CityUHK)**, Hong Kong
 
-# 📝 Publications 
+# Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurocomputing 2025</div><img src='images/neurocomputing2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -41,7 +41,7 @@ My research interests lie in **computational neuroscience**. Specifically, I am 
 </div>
 </div>
 
-# 💻 Experience
+# Experience
 - *2025.02 - Present*, Research Assistant, **[Hierarchical Neural Computation Research Unit](https://cbs.riken.jp/en/faculty/t.asabuki/), RIKEN CBS**, Wako, Japan.
 - *2024.07 - 2025.05*, Technical Assistant, **Department of Computer Science, CityUHK**, Hong Kong.
 - *2023.12 - 2024.11*, Research Intern, **Department of Neuroscience, CityUHK**, Hong Kong.
