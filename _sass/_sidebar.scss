@@ -92,13 +92,13 @@
   }
 
   img {
-    width: 200px;
-    height: 200px;
+    width: 200px !important;
+    height: 200px !important;
     object-fit: cover;
     border-radius: 50%;
 
     @include breakpoint($large) {
-      padding: 5px;
+      padding: 0;
       border: 1px solid $border-color;
     }
   }
