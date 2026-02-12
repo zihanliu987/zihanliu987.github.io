@@ -28,7 +28,7 @@ My research interests lie in **computational neuroscience**. Specifically, I am 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurocomputing 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurocomputing 2025</div><img src='images/neurocomputing2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Release probability distribution modulates attractor state stability and mobility in continuous-attractor neural networks](https://www.sciencedirect.com/science/article/pii/S0925231225011221)
