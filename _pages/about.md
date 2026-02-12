@@ -23,8 +23,8 @@ My research interests lie in **computational neuroscience**. Specifically, I am 
 
 
 # 📖 Educations
-- *2025.09 - 2026.07*, M.Sc. in Computer Science, The Chinese University of Hong Kong 
-- *2021.09 - 2025.07*, B.Sc. in Computer Science, City University of Hong Kong 
+- *2025.09 - 2026.07*, M.Sc. in Computer Science, **The Chinese University of Hong Kong (CUHK)**, Hong Kong
+- *2021.09 - 2025.07*, B.Sc. in Computer Science, **City University of Hong Kong (CityUHK)**, Hong Kong
 
 # 📝 Publications 
 
@@ -42,8 +42,8 @@ My research interests lie in **computational neuroscience**. Specifically, I am 
 </div>
 
 # 💻 Experience
-- *2025.02 - Present*, Research Assistant, Supervisor: Dr. Toshitake Asabuki, [Hierarchical Neural Computation Research Unit](https://cbs.riken.jp/en/faculty/t.asabuki/), RIKEN CBS, Wako, Japan.
-- *2024.07 - 2025.05*, Technical Assistant, Supervisor: Prof. Jianping Wang, Department of Computer Science, CityUHK, Hong Kong.
-- *2023.12 - 2024.11*, Research Intern, Supervisor: Prof. C. C. Alan Fung, Department of Neuroscience, CityUHK, Hong Kong.
-- *2023.06 - 2023.08*, Perception Algorithm Intern, HAOMO.AI Technology Co., Ltd., China.
-- *2022.06 - 2022.08*, Technical Assistant, Supervisor: Prof. Chung Chan, Department of Computer Science, CityUHK, Hong Kong.
+- *2025.02 - Present*, Research Assistant, Supervisor: Dr. Toshitake Asabuki, **[Hierarchical Neural Computation Research Unit](https://cbs.riken.jp/en/faculty/t.asabuki/), RIKEN CBS**, Wako, Japan.
+- *2024.07 - 2025.05*, Technical Assistant, Supervisor: Prof. Jianping Wang, **Department of Computer Science, CityUHK**, Hong Kong.
+- *2023.12 - 2024.11*, Research Intern, Supervisor: Prof. C. C. Alan Fung, **Department of Neuroscience, CityUHK**, Hong Kong.
+- *2023.06 - 2023.08*, Perception Algorithm Intern, **HAOMO.AI Technology Co., Ltd.**, China.
+- *2022.06 - 2022.08*, Technical Assistant, Supervisor: Prof. Chung Chan, **Department of Computer Science, CityUHK**, Hong Kong.
