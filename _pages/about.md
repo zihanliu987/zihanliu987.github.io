@@ -45,7 +45,7 @@ My research interests lie in **Computational Neuroscience**, drawing on tools fr
 **Zihan Liu**, Flavia Nathaline Chanentia, Patteera Supvithayanond, Chi Chung Alan Fung, ***Neurocomputing**, 2025*
 
 </div>
-</div
+</div>
 
 
 # Experience
