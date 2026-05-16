@@ -39,7 +39,7 @@ Apart from these, I am also interested in:
 - *2025.09 - 2026.07*, M.Sc. in Computer Science and Engineering, **The Chinese University of Hong Kong**, Hong Kong SAR, China
 - *2021.09 - 2025.07*, B.Sc. in Computer Science, **City University of Hong Kong**, Hong Kong SAR, China
 
-# Publications
+# Preprints
 
 <div class='paper-box'><div class='paper-box-text' markdown="1">
 
@@ -51,6 +51,8 @@ Apart from these, I am also interested in:
 
 </div>
 </div>
+
+# Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurocomputing 2025</div><img src='images/neurocomputing2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
