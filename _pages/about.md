@@ -41,9 +41,8 @@ Apart from these, I am also interested in:
 
 # Preprints
 
-<div class='paper-box'><div class='paper-box-text' markdown="1">
-
-<span class="badge">bioRxiv 2026</span>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">bioRxiv 2026</div><img src='images/preprint2026.jpeg' alt="preprint" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 [Learning sculpts orthogonal task manifolds for continual skill learning in recurrent networks](https://www.biorxiv.org/content/10.64898/2026.02.15.705283.abstract)
 
