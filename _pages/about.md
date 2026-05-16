@@ -36,6 +36,7 @@ Apart from these, I am also interested in:
 
 # Educations
 
+- *2026.10 - 2030.06*, PhD in Complexity Science and Engineering, **The University of Tokyo**, Tokyo, Japan
 - *2025.09 - 2026.07*, M.Sc. in Computer Science and Engineering, **The Chinese University of Hong Kong**, Hong Kong SAR, China
 - *2021.09 - 2025.07*, B.Sc. in Computer Science, **City University of Hong Kong**, Hong Kong SAR, China
 
