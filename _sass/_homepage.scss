@@ -154,26 +154,53 @@ a:focus-visible { outline: 2px solid #913b35; outline-offset: 5px; }
 }
 
 .paper-box {
-  align-items: flex-start;
-  padding: 12px 0 26px;
-  gap: 24px;
+  display: grid;
+  grid-template-columns: minmax(0, 30%) minmax(0, 1fr);
+  align-items: start;
+  gap: 28px;
+  padding: 6px 0 10px;
 
-  .paper-box-image { min-width: 0; max-width: 32%; }
-  .paper-box-image img { box-shadow: none; border: 1px solid #eee; }
-  .paper-box-text { padding-left: 0; max-width: calc(68% - 24px); }
-  .paper-box-text > p:first-child { line-height: 1.6; }
-  .paper-box-text > p:last-child { color: #666; font-size: 14px; line-height: 1.7; }
-}
+  .paper-box-image {
+    aspect-ratio: 16 / 9;
+    border: 1px solid #e9e9e9;
+    background: #fff;
+  }
 
-.badge {
-  position: static;
-  display: inline-block;
-  margin: 0 0 8px;
-  padding: 2px 8px;
-  color: #666;
-  background: #f3f3f3;
-  font-size: 11px;
-  letter-spacing: 0.3px;
+  .paper-box-image img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+  }
+
+  .paper-box-text { min-width: 0; }
+
+  .paper-venue {
+    margin: 0 0 6px;
+    color: #777;
+    font-size: 12px;
+    line-height: 1.5;
+    letter-spacing: 0.2px;
+  }
+
+  .paper-venue span { padding: 0 4px; }
+
+  .paper-title {
+    margin: 0 0 10px;
+    font-family: inherit;
+    font-size: 17px;
+    font-weight: 600;
+    line-height: 1.5;
+    letter-spacing: 0;
+    overflow-wrap: break-word;
+  }
+
+  .paper-authors {
+    margin: 0;
+    color: #666;
+    font-size: 14px;
+    line-height: 1.7;
+  }
 }
 
 @media (max-width: 1050px) {
@@ -198,11 +225,10 @@ a:focus-visible { outline: 2px solid #913b35; outline-offset: 5px; }
   .page__content h1 { scroll-margin-top: 136px; }
 }
 
-@media (max-width: 480px) {
-  .paper-box { display: block; }
-  .paper-box .paper-box-image { display: block; max-width: 100%; margin-bottom: 16px; }
-  .paper-box .paper-box-image img { max-width: 100%; }
-  .paper-box .paper-box-text { max-width: 100%; }
+@media (max-width: 600px), (min-width: 768px) and (max-width: 1000px) {
+  .paper-box { grid-template-columns: minmax(0, 1fr); gap: 16px; }
+  .paper-box .paper-box-image { width: 100%; max-width: 340px; }
+  .paper-box .paper-title { font-size: 16px; }
 }
 
 @media (prefers-reduced-motion: reduce) {

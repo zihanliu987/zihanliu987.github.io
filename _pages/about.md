@@ -42,26 +42,28 @@ Apart from these, I am also interested in:
 
 # Preprints
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">bioRxiv 2026</div><img src='images/preprint2026.jpeg' alt="preprint" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Learning sculpts orthogonal task manifolds for continual skill learning in recurrent networks](https://www.biorxiv.org/content/10.64898/2026.02.15.705283.abstract)
-
-**Zihan Liu**, Anno Kurth, Yuma Osako, Toshitake Asabuki, ***bioRxiv**, 2026*
-
-</div>
+<div class="paper-box">
+  <div class="paper-box-image">
+    <img src="images/preprint2026.jpeg" alt="Orthogonal and overlapping task manifolds in recurrent networks" loading="lazy">
+  </div>
+  <div class="paper-box-text">
+    <p class="paper-venue">bioRxiv <span aria-hidden="true">·</span> 2026</p>
+    <h2 class="paper-title"><a href="https://www.biorxiv.org/content/10.64898/2026.02.15.705283.abstract">Learning sculpts orthogonal task manifolds for continual skill learning in recurrent networks</a></h2>
+    <p class="paper-authors"><strong>Zihan Liu</strong>, Anno Kurth, Yuma Osako, Toshitake Asabuki</p>
+  </div>
 </div>
 
 # Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurocomputing 2025</div><img src='images/neurocomputing2025.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Release probability distribution modulates attractor state stability and mobility in continuous-attractor neural networks](https://www.sciencedirect.com/science/article/pii/S0925231225011221)
-
-**Zihan Liu**, Flavia Nathaline Chanentia, Patteera Supvithayanond, Chi Chung Alan Fung, ***Neurocomputing**, 2025*
-
-</div>
+<div class="paper-box">
+  <div class="paper-box-image">
+    <img src="images/neurocomputing2025.png" alt="Release probability variation and attractor diffusion" loading="lazy">
+  </div>
+  <div class="paper-box-text">
+    <p class="paper-venue">Neurocomputing <span aria-hidden="true">·</span> 2025</p>
+    <h2 class="paper-title"><a href="https://www.sciencedirect.com/science/article/pii/S0925231225011221">Release probability distribution modulates attractor state stability and mobility in continuous-attractor neural networks</a></h2>
+    <p class="paper-authors"><strong>Zihan Liu</strong>, Flavia Nathaline Chanentia, Patteera Supvithayanond, Chi Chung Alan Fung</p>
+  </div>
 </div>
 
 
