@@ -1,6 +1,6 @@
 # Site Settings
 title                    : "Zihan Liu"
-description              : "M.Sc. Student at CUHK | Research Assistant at RIKEN CBS"
+description              : "Ph.D. Student at The University of Tokyo | Junior Research Associate at RIKEN Center for Brain Science | Computational Neuroscience"
 repository               : "zihanliu987/zihanliu987.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -15,13 +15,13 @@ baidu_site_verification  :
 # Site Author
 author:
   name             : "Zihan Liu"
-  avatar           : "images/profile.png"
-  bio              : "M.Sc. Student at CUHK | Research Assistant at RIKEN CBS"
-  location         : "Hong Kong SAR, China"
+  avatar           : "images/profile.jpeg"
+  bio              : "Ph.D. Student, The University of Tokyo | Junior Research Associate, RIKEN Center for Brain Science"
+  location         : "Tokyo, Japan"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=5rcTxCMAAAAJ"
-  email            : "zihan.liu@link.cuhk.edu.hk"
+  email            : "zihan.liu@riken.jp"
   researchgate     :
   uri              :
   bitbucket        :
