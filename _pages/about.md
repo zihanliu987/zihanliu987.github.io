@@ -71,7 +71,7 @@ Apart from these, I am also interested in:
 # Experience
 
 - *2026.10 - Present*, Junior Research Associate, **Systems Neurophysiology Lab, RIKEN Center for Brain Science**, Wako, Japan.
-- *2025.02 - 2026.09*, Research Assistant, **Hierarchical Neural Computation Research Unit, RIKEN CBS**, Wako, Japan.
+- *2025.02 - 2026.09*, Research Assistant, **Hierarchical Neural Computation Lab, RIKEN CBS**, Wako, Japan.
 - *2024.07 - 2025.05*, Technical Assistant, **Department of Computer Science, CityUHK**, Hong Kong SAR, China.
 - *2023.12 - 2024.11*, Research Assistant, **Department of Neuroscience, CityUHK**, Hong Kong SAR, China.
 - *2023.10 - 2024.07*, Technical Intern, **China Resources (Holdings) Co., Ltd.**, Shenzhen, China.
