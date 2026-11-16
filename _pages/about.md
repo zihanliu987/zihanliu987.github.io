@@ -22,7 +22,7 @@ Before starting my Ph.D., I studied Computer Science and Engineering at The Chin
 
 My research interests lie in **Computational Neuroscience**, drawing on tools from neurobiology, machine learning, and dynamical systems. Specifically, I am now focusing on:
 
-- **Hierarchical Neural Computation**: Exploring cross-region communication mechanisms in the brain through multiple interconnected neural circuits.
+- **Distributed Neural Computation**: Exploring brain-wide neural computations through interconnected neural circuits.
 - **Neural Manifold Theory**: Investigating how low-dimensional manifold structures in neural population activity give rise to perception and behavior.
 
 Apart from these, I am also interested in:
