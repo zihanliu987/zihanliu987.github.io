@@ -31,7 +31,7 @@ Apart from these, I am also interested in:
 
 # News
 
-- *Oct, 2026*: I started my Ph.D. at **The University of Tokyo** and joined **RIKEN Center for Brain Science** as a **Junior Research Associate**, working in the [Systems Neurophysiology Lab (Fujisawa Lab)](https://cbs.riken.jp/en/faculty/s.fujisawa/index.html) and co-supervised by Dr. Toshitake Asabuki.
+- *Oct, 2026*: I started my Ph.D. at **The University of Tokyo**, working in the [Systems Neurophysiology Lab](https://cbs.riken.jp/en/faculty/s.fujisawa/index.html).
 - *Dec, 2025*: I was selected for the [RIKEN Junior Research Associate (JRA)](https://www.riken.jp/en/careers/programs/jra/) Program 2026.
 
 # Educations
