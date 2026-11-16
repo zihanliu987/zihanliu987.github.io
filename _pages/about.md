@@ -18,7 +18,7 @@ redirect_from:
 
 Hi, my name is Zihan Liu (劉子涵). I am a Ph.D. student in Complexity Science and Engineering at **The University of Tokyo** and a **Junior Research Associate (JRA)** at **RIKEN Center for Brain Science**. I work in the [Systems Neurophysiology Lab](https://cbs.riken.jp/en/faculty/s.fujisawa/index.html), supervised by [Dr. Shigeyoshi Fujisawa](https://cbs.riken.jp/en/faculty/s.fujisawa/index.html) and co-supervised by [Dr. Toshitake Asabuki](https://sites.google.com/view/toshitake-asabuki).
 
-Before starting my Ph.D., I received my master's degree at The Chinese University of Hong Kong (CUHK). I also worked as a Research Assistant in the [Hierarchical Neural Computation Lab](https://cbs.riken.jp/en/faculty/t.asabuki/), RIKEN Center for Brain Science, under the supervision of [Dr. Toshitake Asabuki](https://sites.google.com/view/toshitake-asabuki). I received my Bachelor's degree in Computer Science from City University of Hong Kong (CityU), where I was advised by [Prof. Alan C. C. Fung](https://www.cityu.edu.hk/neuro/profile/alanfung.htm).
+Before starting my Ph.D., I received my master's degree at The Chinese University of Hong Kong (CUHK). I also worked as a Research Assistant in the [Hierarchical Neural Computation Lab](https://cbs.riken.jp/en/faculty/t.asabuki/), RIKEN CBS, under the supervision of [Dr. Toshitake Asabuki](https://sites.google.com/view/toshitake-asabuki). I received my Bachelor's degree in Computer Science from City University of Hong Kong (CityU), where I was advised by [Prof. Alan C. C. Fung](https://www.cityu.edu.hk/neuro/profile/alanfung.htm).
 
 My research interests lie in **Computational Neuroscience**, drawing on tools from neurobiology, machine learning, and dynamical systems. Specifically, I am now focusing on:
 
@@ -70,7 +70,7 @@ Apart from these, I am also interested in:
 
 # Experience
 
-- *2026.10 - Present*, Junior Research Associate, **Systems Neurophysiology Lab (Fujisawa Lab), RIKEN Center for Brain Science**, Wako, Japan.
+- *2026.10 - Present*, Junior Research Associate, **Systems Neurophysiology Lab, RIKEN Center for Brain Science**, Wako, Japan.
 - *2025.02 - 2026.09*, Research Assistant, **Hierarchical Neural Computation Research Unit, RIKEN CBS**, Wako, Japan.
 - *2024.07 - 2025.05*, Technical Assistant, **Department of Computer Science, CityUHK**, Hong Kong SAR, China.
 - *2023.12 - 2024.11*, Research Assistant, **Department of Neuroscience, CityUHK**, Hong Kong SAR, China.
