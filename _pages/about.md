@@ -20,7 +20,7 @@ Hi, my name is Zihan Liu (劉子涵). I am a Ph.D. student in Complexity Science
 
 Before starting my Ph.D., I studied Computer Science and Engineering at The Chinese University of Hong Kong (CUHK) and worked as a Research Assistant in the [Hierarchical Neural Computation Lab](https://cbs.riken.jp/en/faculty/t.asabuki/), RIKEN Center for Brain Science, under the supervision of [Dr. Toshitake Asabuki](https://sites.google.com/view/toshitake-asabuki). I received my Bachelor's degree in Computer Science from City University of Hong Kong (CityU), where I was advised by [Prof. Alan C. C. Fung](https://www.cityu.edu.hk/neuro/profile/alanfung.htm).
 
-My research interests lie in **Computational Neuroscience**, drawing on tools from theoretical neuroscience, machine learning, and dynamical systems. Specifically, I am now focusing on:
+My research interests lie in **Computational Neuroscience**, drawing on tools from neurobiology, machine learning, and dynamical systems. Specifically, I am now focusing on:
 
 - **Hierarchical Neural Computation**: Exploring cross-region communication mechanisms in the brain through multiple interconnected neural circuits.
 - **Neural Manifold Theory**: Investigating how low-dimensional manifold structures in neural population activity give rise to perception and behavior.
