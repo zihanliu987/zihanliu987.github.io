@@ -18,7 +18,9 @@ redirect_from:
 
 Hi, my name is Zihan Liu (劉子涵). I am a Ph.D. student in Complexity Science and Engineering at **The University of Tokyo** and a **Junior Research Associate (JRA)** at **RIKEN Center for Brain Science**. I work in the [Systems Neurophysiology Lab](https://cbs.riken.jp/en/faculty/s.fujisawa/index.html), supervised by [Dr. Shigeyoshi Fujisawa](https://cbs.riken.jp/en/faculty/s.fujisawa/index.html) and co-supervised by [Dr. Toshitake Asabuki](https://sites.google.com/view/toshitake-asabuki).
 
-Before starting my Ph.D., I received my master's degree at The Chinese University of Hong Kong (CUHK). I also worked as a Research Assistant in the [Hierarchical Neural Computation Lab](https://cbs.riken.jp/en/faculty/t.asabuki/), RIKEN CBS, under the supervision of [Dr. Toshitake Asabuki](https://sites.google.com/view/toshitake-asabuki). In 2025, I received my Bachelor's degree in Computer Science from City University of Hong Kong (CityU), where I was advised by [Prof. Alan C. C. Fung](https://www.cityu.edu.hk/neuro/profile/alanfung.htm). Under his guidance, I built a foundation in the theory and dynamics of continuous attractor networks.
+I received my bachelor's degree in Computer Science from City University of Hong Kong (CityU) in 2025. Under the guidance of [Prof. Alan C. C. Fung](https://www.cityu.edu.hk/neuro/profile/alanfung.htm), I built a foundation in the theory and dynamics of continuous attractor networks.
+
+I went on to earn my master's degree from The Chinese University of Hong Kong (CUHK) in 2026. Alongside my studies, I worked as a Research Assistant in the [Hierarchical Neural Computation Lab](https://cbs.riken.jp/en/faculty/t.asabuki/), RIKEN CBS, under the supervision of [Dr. Toshitake Asabuki](https://sites.google.com/view/toshitake-asabuki).
 
 My research interests lie in **Computational Neuroscience**, drawing on tools from neurobiology, machine learning, and dynamical systems. Specifically, I am now focusing on:
 
